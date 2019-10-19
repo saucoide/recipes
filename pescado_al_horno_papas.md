@@ -15,7 +15,7 @@
 
 **Papas y cebolla** cortadas en **rodajas finas**
 Un poco de pimiento verde en tiritas finas
-Se remueve todo en un bol con sal, pimienta y un poco de tomillo y romero
+Se remueve todo en un bol con sal, pimienta y un poco de tomillo y romero (no demasiado)
 
 Se ponen en la bandeja con aceite de oliva y un poco de vino blanco
 Se puede anadir tambien unas hojas de laurel
