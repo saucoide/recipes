@@ -2,7 +2,7 @@
 
 ## Ingredientes
 - 400ml Harina
-- 3-4 cucharillas de bicarbonato
+- 3-4 cucharillas de levadura en polvo (baking powder)
 - pizca de sal
 - 1 huevo
 - 300ml Leche
