@@ -1,18 +1,18 @@
 # Pancakes (American)
 
-## Ingredientes
-- 400ml Harina
-- 3-4 cucharillas de levadura en polvo (baking powder)
-- pizca de sal
-- 1 huevo
-- 300ml Leche
-- 60ml mantequilla
-- pizco de vainilla opcional
+## Ingredients
+- 400ml flour
+- 3-4 teaspoons of baking powder
+- A pinch of salt
+- 1 egg
+- 300ml milk
+- 60ml butter
+- Vanilla (optional)
 
-## Preparacion
+## Preparation
 
-1. Mezclar en un bol grande la harina, bicarbonato y sal, dejar reposar a un lado
-2. En otro bol, partir el huevo y anhadir la leche
-3. Aniadir la mantequilla (derretida) y la vainilla al huevo y leche mezclar hasta que quede uniforme
-4. hacer un hueco en los ingredientes secos y aniadir los liquidos, mezclar con una pala de madera suavemente hasta que no queden grumos grandes
-5. Cocinar en una sarten con algo de mantequilla, ~80ml por pancake, y mantener 2-3mins por cada lado
+1. Mix the flour, baking powder and salt in a large bowl and leave to rest aside  
+2. In a different bowl, whisk the egg and add the milk  
+3. Add the butter (melted) and vanilla to the egg and milk, and mix until it has a uniform consistency  
+4. Mix the liquid ingredients into the dry mix, and slowly mix with a wooden spoon or similar, until there are no large lumps, but so much that it is too uniform
+5. Cook on a pan with butter, 2-3 min on each side
