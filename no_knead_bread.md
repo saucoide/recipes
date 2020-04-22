@@ -2,7 +2,7 @@
 
 ## Ingredients  
 
-- Flour - 385g  
+- Flour - 385g (~700ml mor or less) 
 - Water - 460ml
 - Yeast - 1/4 teaspoon  
 - Salt - 1.5 teaspoon  
