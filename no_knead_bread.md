@@ -25,14 +25,14 @@
 
 ---
 
-8. Coat a towel with flour or some other grain
-9.a Gently shape the dough into a bowl, and place it on the towel, and cover the top with another towel (if the first one is not big enough)
-9.b If the dough is too wet, add a bit more flour, dont leave it completely dry, it still should be quite sticky at this point. This is also the moment where you'd add seeds or anything else you want on the interior of the dough.
-10. Let it rise for 2 hours, it should be ready when you can poke it and it will not bounce back quickly
+8. Coat a towel with flour or some other grain  
+9. Gently shape the dough into a bowl, and place it on the towel, and cover the top with another towel (if the first one is not big enough)  
+10. If the dough is too wet, add a bit more flour, dont leave it completely dry, it still should be quite sticky at this point. This is also the moment where you'd add seeds or anything else you want on the interior of the dough.
+11. Let it rise for 2 hours, it should be ready when you can poke it and it will not bounce back quickly
 
 ---
 
-11. Heat the oven to 230C with heavy mold or recipient inside, once the dough is ready, carefully transfer it into the recipient, flipping it so that what used to be bottom is not the top side
-12. Cover the recipient with a lid, or aluminum foil and bake for 30min
-13. Remove the cover and bake for another 15 to 30min, until it has browned
+12. Heat the oven to 230C with heavy mold or recipient inside, once the dough is ready, carefully transfer it into the recipient, flipping it so that what used to be bottom is not the top side
+13. Cover the recipient with a lid, or aluminum foil and bake for 30min
+14. Remove the cover and bake for another 15 to 30min, until it has browned
 
