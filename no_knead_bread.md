@@ -1,9 +1,9 @@
-# No Knead Bread
+# Bread
 
 ## Ingredients  
 
-- Flour - 400g (~700ml more or less) 
-- Water - 460ml
+- Flour - 3 cups (850ml)
+- Water - 1,5 cups (425ml)
 - Yeast - 1/4 teaspoon  
 - Salt - 1.5 teaspoon  
 
@@ -19,20 +19,20 @@
 ---
 
 4. After the resting time, the surface should be dotted with bubbles
-5. Put some flour on a surface and place the dough on it
-6. Add a little more flour to the dough and fold it once or twice
-7. Cover it again with the plastic wrap and let it rest for 15min
+5. Spread flour over a surface and place the dough on it  
+6. Fold the dough on itself it once or twice, shaping it a bit
+7. Cover it again with the plastic wrap and let it rest for 15min (these previous 2 steps can be repeated but it is not needed)
 
 ---
 
-8. Coat a towel with flour or some other grain  
-9. Gently shape the dough into a bowl, and place it on the towel, and cover the top with another towel (if the first one is not big enough)  
-10. If the dough is too wet, add a bit more flour, dont leave it completely dry, it still should be quite sticky at this point. This is also the moment where you'd add seeds or anything else you want on the interior of the dough.
+8. Coat a towel with flour or some other grains  
+9. Gently shape the dough into a bowl, place it on top of the towel, and cover it with the rest of the towel
+10. This is also the moment where you'd add seeds or anything else you want on the exterior of the bread
 11. Let it rise for 2 hours, it should be ready when you can poke it and it will not bounce back quickly
 
 ---
 
-12. Heat the oven to 230C with heavy mold or recipient inside, once the dough is ready, carefully transfer it into the recipient, flipping it so that what used to be bottom is not the top side
+12. Heat the oven to 230C with a heavy mold or recipient inside (the mold should be hot), once the dough is ready, transfer it into the recipient, flipping it so that what used to be bottom is not the top side
 13. Cover the recipient with a lid, or aluminum foil and bake for 30min
 14. Remove the cover and bake for another 15 to 30min, until it has browned
 
