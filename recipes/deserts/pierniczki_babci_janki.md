@@ -1,5 +1,8 @@
 # PIERNIKI BABCI JANKI
 
+![pierniki03-210955](https://user-images.githubusercontent.com/64158580/113488878-1d884180-94c1-11eb-9925-8e3a7e0c407f.jpeg)
+
+
 ## Składniki
 5 jaj 
 0,5 kg cukru 
