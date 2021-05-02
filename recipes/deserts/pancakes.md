@@ -1,5 +1,7 @@
 # Pancakes (American)
 
+![pancakes](../images/pancakes.jpg)
+
 ## Ingredients
 - 400ml flour
 - 3-4 teaspoons of baking powder

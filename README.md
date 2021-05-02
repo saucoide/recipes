@@ -2,6 +2,7 @@
 
 
 ## Main dishes
+- [butter_chicken](recipes/main/butter_chicken.md)  
 - [Carne de cochino](recipes/main/carne_de_cochino.md)  
 - [Couscous con pollo](recipes/main/couscous_con_pollo.md)  
 - [Croquetas](recipes/main/croquetas.md)  
@@ -16,6 +17,7 @@
 - [Podpłomyki - Polish old bread](recipes/bread/podpłomyki.md)  
 
 ## Deserts
+- [Carrot Muffins](recipes/deserts/carrot_muffins.md)  
 - [Danish Straberry Cake](recipes/deserts/danish_strawberry_cake.md)  
 - [Flan de Huevo](recipes/deserts/flan_de_huevo.md)  
 - [Pancakes](recipes/deserts/pancakes.md)  

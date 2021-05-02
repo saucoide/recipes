@@ -1,6 +1,6 @@
-# Carrot muffins
-![mufinka2](https://user-images.githubusercontent.com/64158580/113488808-a783da80-94c0-11eb-86ad-9da35ad4f9d2.jpg)
+# Carrot Muffins
 
+![carrot-muffin](../images/carrot_muffin.jpg)
 
 ## Ingredients  
   -  2 szklanki startej marchewki (na małych oczkach jarzynowych)
