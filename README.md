@@ -1,5 +1,6 @@
-# Recipes ([View as Page](https://saucoide.github.io/recipes/))
+# [Recetillas / Recipes](https://saucoide.github.io/recipes/)
 
+[View in Web form](https://saucoide.github.io/recipes/)
 
 ## Main dishes
 - [Butter Chicken](recipes/main/butter_chicken.md)  
