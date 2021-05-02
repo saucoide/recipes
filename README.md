@@ -2,7 +2,7 @@
 
 
 ## Main dishes
-- [butter_chicken](recipes/main/butter_chicken.md)  
+- [Butter Chicken](recipes/main/butter_chicken.md)  
 - [Carne de cochino](recipes/main/carne_de_cochino.md)  
 - [Couscous con pollo](recipes/main/couscous_con_pollo.md)  
 - [Croquetas](recipes/main/croquetas.md)  
