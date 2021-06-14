@@ -11,7 +11,7 @@
 
 Preparation:
 1. mix the eggs with the maizena
-2. boil the cream, sugar and vanilla (> 84C minimum)
+2. boil the cream, milk, sugar and vanilla (> 84C minimum)
 3. whip the hot cream/milk into the eggmix (add eggs into the cream, while mixing)
 4. once it has a creamy enough consistence, leave in the fridge to rest until the next day
 5. the next day, you mix half of the cream with 0.25L of whipped cream
