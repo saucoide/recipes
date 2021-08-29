@@ -1,6 +1,5 @@
 # Mead (5L)
 
-TODO add picture
 ![mead](../images/mead.png)
 
 ## Ingredients  
@@ -13,6 +12,7 @@ TODO add picture
 
 
 ## Preparation  
+---
 
 1. Sanitize everything (fermeting jug, airlock, pot, spoons, funnels).  
   

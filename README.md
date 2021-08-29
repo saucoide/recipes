@@ -17,6 +17,9 @@
 - [No Knead Bread](recipes/bread/no_knead_bread.md)  
 - [Podpłomyki - Polish old bread](recipes/bread/podpłomyki.md)  
 
+## Brewing
+- [Mead](recipes/brewing/mead.md)  
+
 ## Deserts
 - [Carrot Muffins](recipes/deserts/carrot_muffins.md)  
 - [Danish Straberry Cake](recipes/deserts/danish_strawberry_cake.md)  
