@@ -13,6 +13,9 @@
 - [Pescado al horno con papas panaderas](recipes/main/pescado_al_horno_con_papas_panaderas.md)  
 - [Red lentis stew](recipes/main/red_lentils_stew.md)  
 
+## Sauces
+- [Alioli](recipes/sauces/alioli.md)  
+
 ## Bread
 - [No Knead Bread](recipes/bread/no_knead_bread.md)  
 - [Podpłomyki - Polish old bread](recipes/bread/podpłomyki.md)  
