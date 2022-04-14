@@ -29,3 +29,4 @@
 - [Flan de Huevo](recipes/deserts/flan_de_huevo.md)  
 - [Pancakes](recipes/deserts/pancakes.md)  
 - [Pierniczki babci Janki](recipes/deserts/pierniczki_babci_janki.md)  
+- [Torrijas](recipes/deserts/torrijas.md)
