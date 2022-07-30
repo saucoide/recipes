@@ -10,6 +10,7 @@
 - [Lemon rice](recipes/main/lemon_rice.md)  
 - [Moussaka](recipes/main/moussaka.md)  
 - [Palak paneer](recipes/main/palak_paneer.md)  
+- [Chicken palak](recipes/main/chicken_palak.md)  
 - [Pescado al horno con papas panaderas](recipes/main/pescado_al_horno_con_papas_panaderas.md)  
 - [Red lentis stew](recipes/main/red_lentils_stew.md)  
 
