@@ -4,19 +4,19 @@
 
 For the Marinade:  
 
-– Chicken  
-– Yoghurt  
-– Coriander  
-– Chilli  
-– Cumin  
-– Garam Masala  
-– Ginger  
-– Lemon  
+- Chicken  
+- Yoghurt  
+- Coriander  
+- Chilli  
+- Cumin  
+- Garam Masala  
+- Ginger  
+- Lemon  
 - Salt  
 
 For the curry:  
 
-– Olive oil  
+- Olive oil  
 - Cardamon  
 - Laurel  
 - Cumin  
