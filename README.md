@@ -24,6 +24,7 @@
 ## Bread
 - [No Knead Bread](recipes/bread/no_knead_bread.md)  
 - [Podpłomyki - Polish old bread](recipes/bread/podpłomyki.md)  
+- [Quick Baguette](recipes/bread/baguette.md)  
 
 ## Brewing
 - [Mead](recipes/brewing/mead.md)  
