@@ -1,0 +1,1 @@
+![sernik](../images/sernik.jpg)
