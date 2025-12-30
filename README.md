@@ -36,4 +36,5 @@
 - [Pancakes](recipes/deserts/pancakes.md)  
 - [Pierniczki babci Janki](recipes/deserts/pierniczki_babci_janki.md)  
 - [Torrijas](recipes/deserts/torrijas.md)  
-- [Tarta de Santiago](recipes/deserts/tarta_de_santiago.md)  
+- [Tarta de Santiago](recipes/deserts/tarta_de_santiago.md)
+- [Sernik Agaty Kaczmarek](recipes/deserts/sernik_Agaty_Kaczmarek.md)
