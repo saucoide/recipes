@@ -21,3 +21,6 @@ Wstawiamy do nagrzanego piekarnika - 180C termoobieg. Pieczemy 15 minut. Po tym 
 Migdały prażymy. Czekolade rozpuszczamy w łaźni wodnej (dodaj ciut mleka żeby zmienić konsystencje). Polewamy na górze.
 
 Sernik do lodówki i najlepszy jest jak sie przegryzie na drugi-trzeci dzień.
+
+[]()
+![sernik](../images/sernik.jpg)
